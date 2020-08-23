@@ -30,7 +30,7 @@
 <img align="left" alt="HTML" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/css.png" />
 <img align="left" alt="JS" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/javascript.webp" />
-<img align="left" alt="php" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/php.svg" />
+<img align="left" alt="php" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/php.svg" />
 
 <br />
 
