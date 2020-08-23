@@ -27,7 +27,7 @@
 <img align="left" alt="c++" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/cplusplus.png" />
 <img align="left" alt="mySQL" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/mysql.png" />
 <img align="left" alt="SQL" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/sql.jpg" />
-<img align="left" alt="HTML" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
+<img align="left" alt="HTML" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/css.png" />
 <img align="left" alt="JS" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/javascript.webp" />
 <img align="left" alt="php" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/php.svg" />
