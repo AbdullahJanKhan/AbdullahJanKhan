@@ -23,7 +23,7 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/github.png" />
 <img align="left" alt="Python" width="30px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/python.webp" />
-<img align="left" alt="Java" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/java.jpeg" />
+<img align="left" alt="Java" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/java.jpeg" />
 <img align="left" alt="c++" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/cplusplus.png" />
 <img align="left" alt="mySQL" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/mysql.png" />
 <img align="left" alt="SQL" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/sql.jpg" />
