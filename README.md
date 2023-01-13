@@ -28,7 +28,7 @@
 <img align="left" alt="c++" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/cplusplus.png" />
 <img align="left" alt="mySQL" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/mysql.png" />
 <img align="left" alt="SQL" width="50px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/sql.jpg" />
-<img align="left" alt="PostgresSQL" width="45px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/postgres.png" />
+<img align="left" alt="PostgresSQL" width="40px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/postgres.png" />
 <img align="left" alt="HTML" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
 <img align="left" alt="CSS" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/css.png" />
 <img align="left" alt="JS" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/javascript.webp" />
