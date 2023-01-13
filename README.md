@@ -5,12 +5,13 @@
 - 🔭 I’m currently working on Diabetic Retinopathy Detection as my Final Year Project
 - 🌱 I’m currently learning Full Stack Web Developement and Mern Stack
 - 👯 I’m looking to collaborate with Tech Companies and Start-ups
-- 🤔 I’m looking for help with 
+- 🤔 Reach me if you need help
 - 💬 Ask me Tech Related
 - 📫 How to reach me: abdullah.jankhan445@gmail.com
 - ⚡ Fun fact: Fitness Athlete
 
 ### Connect with me:
+
 [<img align="left" alt="abdullahjankhan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="abdullahjankhan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="abdullahjankhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,17 +21,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Git" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/github.png" />
-<img align="left" alt="Python" width="30px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/python.webp" />
-<img align="left" alt="Java" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/java.jpeg" />
-<img align="left" alt="c++" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/cplusplus.png" />
-<img align="left" alt="mySQL" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/mysql.png" />
-<img align="left" alt="SQL" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/sql.jpg" />
-<img align="left" alt="HTML" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/css.png" />
-<img align="left" alt="JS" width="26px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/javascript.webp" />
-<img align="left" alt="php" width="46px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/php.svg" />
+<img align="left" alt="Git" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/git.png" />
+<img align="left" alt="GitHub" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/github.png" />
+<img align="left" alt="Python" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/python.webp" />
+<img align="left" alt="Java" width="50px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/java.jpeg" />
+<img align="left" alt="c++" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/cplusplus.png" />
+<img align="left" alt="mySQL" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/mysql.png" />
+<img align="left" alt="SQL" width="50px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/sql.jpg" />
+<img align="left" alt="HTML" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
+<img align="left" alt="CSS" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/css.png" />
+<img align="left" alt="JS" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/javascript.webp" />
+<img align="left" alt="GO Lang" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/go.png" />
+<img align="left" alt="NodeJS" width="50px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/nodejs.svg" />
 
 <br />
 
@@ -41,8 +43,4 @@
 
 <br />
 
-<img align="left" alt="abdullahjankhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ABDULLAHJANKHAN&show_icons=true&theme=radical" />
-
-
-
-
+<img align="left" alt="abdullahjankhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahJanKhan&show_icons=true&theme=radical" />
