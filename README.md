@@ -31,7 +31,7 @@
 <img align="left" alt="HTML" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/html.png" />
 <img align="left" alt="CSS" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/css.png" />
 <img align="left" alt="JS" width="35px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/javascript.webp" />
-<img align="left" alt="GO Lang" width="70px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/go.png" />
+<img align="left" alt="GO Lang" width="50px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/go.png" />
 <img align="left" alt="NodeJS" width="70px" src="https://github.com/AbdullahJanKhan/AbdullahJanKhan/blob/master/icons/nodejs.svg" />
 
 <br />
