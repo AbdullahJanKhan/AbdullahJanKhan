@@ -2,7 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbdullahJanKha5?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbdullahJanKha5&screen_name=AbdullahJanKha5)
 
-- 🔭 I’m currently working on Diabetic Retinopathy Detection as my Final Year Project
+- 🔭 Worked on Diabetic Retinopathy Detection as my Final Year Project.
+- 🔭 Worked on Depression Detection (Emily).
+- 🔭 Contributor of Pylons (github.com/Pylon-tech/pylons)
 - 🌱 I’m currently learning Full Stack Web Developement and Mern Stack
 - 👯 I’m looking to collaborate with Tech Companies and Start-ups
 - 🤔 Reach me if you need help
