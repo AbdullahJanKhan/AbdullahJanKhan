@@ -52,6 +52,7 @@
 <br/>
 <br/>
 
-## GitHub Stats
+## GitHub Trophies
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahJanKhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
