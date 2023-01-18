@@ -46,4 +46,8 @@
 
 <br />
 
+## GitHub Stats
+<br/>
 <img align="left" alt="abdullahjankhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahJanKhan&show_icons=true&theme=radical" />
+<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahjankhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
