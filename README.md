@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing WebRTC Potential: Unleashing Power in Android Apps with STUN, TURN Servers, ICE…](https://abdullah-jan-khan.medium.com/maximizing-webrtc-potential-unleashing-power-in-android-apps-with-stun-turn-servers-ice-79c17b010bd8?source=rss-979c94fc2aaa------2)
+- [Realtime Communication using gRPC PT-2](https://abdullah-jan-khan.medium.com/realtime-communication-using-grpc-pt-2-6ac57ea0403b?source=rss-979c94fc2aaa------2)
+- [Realtime Communication using gRPC PT-1](https://abdullah-jan-khan.medium.com/realtime-communication-using-grpc-pt-1-5c2466811232?source=rss-979c94fc2aaa------2)
+- [gRPC on Android using TLS](https://abdullah-jan-khan.medium.com/grpc-on-android-using-tls-5f04db4dd87e?source=rss-979c94fc2aaa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
