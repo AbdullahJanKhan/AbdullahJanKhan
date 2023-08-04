@@ -35,6 +35,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+# Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahjankhan&show_icons=true&locale=en&layout=compact" alt="abdullahjankhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahjankhan&show_icons=true&locale=en" alt="abdullahjankhan" /></p>
